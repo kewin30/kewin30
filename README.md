@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project with my friend- Online Shop with clothes etc.<br>🌱 I’m currently learning .Net Core
+🔭 I’m currently working on project with friends from school- Cinema website etc.<br>🌱 I’m currently learning .Net Core and Angular
 
 
 # 💻 Tech Stack:
