@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project with friends from school- Cinema website etc.<br>🌱 I’m currently learning .Net Core and Angular
+🔭 I’m currently working on project for powerlifting- KalkulatorIPF website that helps with counting points.<br>🌱 I’m currently learning .Net Core and Angular
 
 
 # 💻 Tech Stack:
