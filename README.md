@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project for powerlifting- KalkulatorIPF website that helps with counting points.<br>🌱 I’m currently learning .Net Core and Angular
+🔭 I’m currently working on .NET core, EF and Angular project<br>🌱 I’m currently learning Microservices- Kubernetees
 
 
 # 💻 Tech Stack:
